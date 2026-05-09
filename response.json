@@ -1,0 +1,1 @@
+{"statusCode": 200, "headers": {"Content-Type": "application/json", "Access-Control-Allow-Origin": "*"}, "body": "{\"message\": \"Hello, Maruti! Welcome to AWS Lambda.\", \"status\": \"success\", \"timestamp\": \"2026-05-09T13:09:19.531056+00:00\", \"method\": \"GET\"}"}

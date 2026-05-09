@@ -1,0 +1,22 @@
+{
+  "_comment": "This file simulates the JSON event AWS sends to your Lambda. Use it to test locally.",
+  "httpMethod": "GET",
+  "path": "/hello",
+  "queryStringParameters": {
+    "name": "Maruti"
+  },
+  "headers": {
+    "Content-Type": "application/json",
+    "User-Agent": "curl/7.x"
+  },
+  "body": null,
+  "isBase64Encoded": false,
+  "requestContext": {
+    "http": {
+      "method": "GET",
+      "path": "/hello",
+      "sourceIp": "127.0.0.1"
+    },
+    "stage": "local"
+  }
+}
